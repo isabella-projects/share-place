@@ -6,12 +6,13 @@
 
 # 📝 Description
 
--   Share a place web application using Google API. Simply you can enter a desired location and preview the location.
+-   Share a place web application using Google API. Simply you can enter a desired location and preview the location. This is part of my TypeScript learning journey.
+
+![mockup](https://github.com/isabella-projects/share-place/assets/76888305/667c91b8-1ba4-4a42-9f64-489072bfc109)
 
 ## ⚡ Share a Place web application using TypeScript - part of my TypeScript learning journey.
 
-> [!IMPORTANT]
-> _The styling is just for demo purposes and not final product. Functionality is considered as more important!_
+> [!IMPORTANT] > _The styling is just for demo purposes and not final product. Functionality is considered as more important!_
 
 # 🛠 Tech Stack
 
