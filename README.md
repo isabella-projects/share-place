@@ -12,7 +12,7 @@
 
 ## ⚡ Share a Place web application using TypeScript - part of my TypeScript learning journey.
 
-> [!IMPORTANT] > _The styling is just for demo purposes and not final product. Functionality is considered as more important!_
+> _The styling is just for demo purposes and not final product. Functionality is considered as more important!_
 
 # 🛠 Tech Stack
 
