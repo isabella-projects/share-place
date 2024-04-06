@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <script
+            async
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAYhhc8WM5uLSWKg-u91UtyNhj6Xe99P98&loading=async"
+        ></script>
+        <title>Share a Place</title>
+    </head>
+    <body>
+        <div id="map">
+            <p>Here you will see the location of the entered address...</p>
+        </div>
+        <form>
+            <label for="address">
+                <input type="text" id="address" placeholder="Search location..." autocomplete="address-level1" />
+            </label>
+            <button id="btn-address" type="submit">Search Address</button>
+        </form>
+        <script type="module" src="./src/app.ts"></script>
+    </body>
+</html>
